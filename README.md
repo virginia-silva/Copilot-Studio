@@ -1,1 +1,1 @@
-<img scr= "Github/copilot-studio">
+<img scr= "Github/copilot-studio.png">
