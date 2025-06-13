@@ -15,7 +15,7 @@
 * Trabalhando com ambientes no Microsoft Copilot Studio.
 * Desafio de Projetos : Crie um portifólio vencedor.
 * Criando seu primeiro Copilot no Microsoft Studio.
-* Criando Ações no Microsoft Copilot Studio - [Link da Live](https://www.youtube.com/watch?v=pkAhXl5yl3Q).
+* Criando Ações no Microsoft Copilot Studio : [Link da Live](https://www.youtube.com/watch?v=pkAhXl5yl3Q).
 
 ### 2- Construindo diálogos no Microsoft Copilot Studio.
 
@@ -23,3 +23,4 @@
 * Ramificando um tópico no Microsoft Copilot Studio.
 * Trabalhando com tópicos de fallback do sistema no Microsoft Copilot Studio.
 * Code challange : Explorando o Microsoft Copilot Studio.
+* Modelos de prompt : [Clique aqui!](https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=&sort-by=updateDateTime-true&page=1&product=powerplatform-prompts).
