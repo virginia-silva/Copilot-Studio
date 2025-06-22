@@ -36,3 +36,6 @@
 * Expressões Regulares : [Clique aqui!](https://learn.microsoft.com/pt-br/dotnet/standard/base-types/regular-expressions).
 * Trabalhar com entidades e variáveis no Microsoft Copilot Studio: [Clique aqui!](https://learn.microsoft.com/pt-br/training/modules/power-virtual-agents-entities/).
 * Usar entidades e preenchimento de slots em agentes: [Clique aqui!](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/advanced-entities-slot-filling).
+
+### Curso open-source Microsoft - "AI Agents for Beginners" : [Clique aqui!](https://github.com/microsoft/ai-agents-for-beginners)
+
