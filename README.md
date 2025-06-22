@@ -38,5 +38,10 @@
 * Usar entidades e preenchimento de slots em agentes: [Clique aqui!](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/advanced-entities-slot-filling).
 * Authentication: [Clique aqui!](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/configuration-end-user-authentication).
 
+  ### 4- Publicando Copilotos no Microsoft Copilot Studio.
+
+  * Testando Copilotos no Microsoft Copilot Studio.
+  * Publicando Copilotos e Analisando Desempenhos no Microsoft Copilot Studio.
+
 ### Curso open-source Microsoft - "AI Agents for Beginners" : [Clique aqui!](https://github.com/microsoft/ai-agents-for-beginners)
 
