@@ -24,3 +24,13 @@
 * Trabalhando com tópicos de fallback do sistema no Microsoft Copilot Studio.
 * Code challange : Explorando o Microsoft Copilot Studio.
 * Modelos de prompt : [Clique aqui!](https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=&sort-by=updateDateTime-true&page=1&product=powerplatform-prompts).
+
+### 3- Personalizando Respostas no Microsoft Copilot Studio.
+
+* Introdução a Entidades e Variáveis no Microsoft Copilot Studio.
+* Criando Entidades Personalizadas no Microsoft Copilot Studio.
+* Criando variáveis no Microsoft Copilot Studio.
+* Criando respostas generativas com IA no Microsoft Copilot Studio.
+* Criando um COPILOT com fluxo de conversa personalizado no Microsoft Copilot Studio.
+* Configurando a Autenticação no Microsoft Copilot Studio.
+* Expressões Regulares : [Clique aqui!](https://learn.microsoft.com/pt-br/dotnet/standard/base-types/regular-expressions).
