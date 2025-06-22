@@ -34,3 +34,4 @@
 * Criando um COPILOT com fluxo de conversa personalizado no Microsoft Copilot Studio.
 * Configurando a Autenticação no Microsoft Copilot Studio.
 * Expressões Regulares : [Clique aqui!](https://learn.microsoft.com/pt-br/dotnet/standard/base-types/regular-expressions).
+* Trabalhar com entidades e variáveis no Microsoft Copilot Studio: [Clique aqui!](https://learn.microsoft.com/pt-br/training/modules/power-virtual-agents-entities/).
